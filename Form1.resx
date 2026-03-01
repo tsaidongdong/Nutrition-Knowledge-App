@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="detail.Text" xml:space="preserve">
+    <value>1、薑 健脾利濕好食物
+
+日常飲食可適量吃一點薑來護脾胃，尤其烹煮瓜類、海鮮等寒涼食物時，放一些薑除了去腥，還能去除一點食物的寒性。
+中醫認為，薑能健脾利濕，薑皮有輕微的利尿作用。薑也可以輕微地刺激胃酸的分泌，有助消化，但又不會過度刺激腸胃道，這也是為什麼有些人在緊張、噁心或嘔吐時，喝一點薑湯可以舒緩。輕微的腹瀉，喝些薑湯也有效，因為它能抑制平滑肌過度收縮。
+
+2、甘蔗 緩解腹脹
+甘蔗味甘平，具有解熱、利尿和滋養功效，生飲甘蔗汁可清熱助消化，凡是口乾舌燥、反胃嘔吐、消化不良和發熱退燒皆可使用。唐朝詩人王維曾如此形容：「飽食不須愁內熱，大官還有蔗漿寒。」唐朝的官宦人家，早已懂得用甘蔗汁來緩解腸胃飽脹不適。
+烤過的甘蔗打汁，則有補脾益氣、滋養保健功效。烤甘蔗汁不但可用來治療咳嗽，以營養學來看，甘蔗汁的葡萄糖和果糖容易吸收，可直接化為能量來源，適合消化功能差、需要迅速補充能量的人。
+不過，甘蔗糖分高，中醫認為甜食會生痰，痰多的人不適合生飲甘蔗汁。而糖尿病患者、代謝異常及血脂高的人也要限量飲用。
+
+3、四神湯 顧腸胃良方
+夜市、小吃攤常見的四神湯是最平民的護養脾胃良方，適合大多數體質的人食用。
+四神湯裡的茯苓、芡實、蓮子、山藥，這4種藥材可以健脾止瀉、厚實腸胃的功能。四神湯屬於一般藥膳，可自行烹煮，一般都在四神湯裡加蛋白質如小腸、豬肚，素食者可加豆類，增加風味。
+
+4、蓮藕 健脾養胃
+
+馬光亞醫師不吃補，卻喜歡在秋天吃蓮藕排骨湯安神潤肺養胃。古代，蓮藕就是食療養生聖品。以中醫觀點來看，生藕、熟藕各具有不同的功效。生藕性味甘寒，可清熱生津、涼血止血、散瘀，適用於口乾舌燥及火氣大的人；蓮藕煮熟後，性由
+寒轉溫，有健脾養胃、補氣養血、止瀉的效果，適合胃腸虛弱、消化不良的人食用。
+但有消化道潰瘍、容易脹氣和大腸激躁症的人不宜多吃，因為蓮藕的纖維多，會促進腸道蠕動。而脾胃虛寒，如容易腹瀉、胃口不佳的人，以及女性生理期時，應避免吃性寒的生藕，而改吃熟藕，以免加重不適。
+
+5、空心菜 潤腸通便
+中醫認為空心菜清熱解毒、潤腸通便，如同天然保護罩，可防止夏天的細菌病毒入侵體內。
+以營養學角度來看，空心菜可健胃整腸。空心菜的鹼性會降低腸內酸度，幫助好菌生長；空心菜含大量纖維質，可降低膽固醇，且含鐵量比紅鳳菜和高麗菜高。
+不過，空心菜性味偏寒，體虛者不適合多吃。此外，空心菜會影響中藥補養藥物，如黃耆、人參、當歸、川芎、何首烏的效果，如服用以上中藥，宜錯開2～3小時後再吃空心菜。
+
+6、白蘿蔔 助消化
+白蘿蔔生食可止渴、清熱，並促進腸胃蠕動、幫助消化，有「小人參」美稱。
+營養師許雲卿舉例說，日本人在便當中加入黃蘿蔔、廣東人在三寶飯中加入醃蘿蔔，都有幫助消化的效用。
+白蘿蔔熟食能利尿消腫脹，幫助排便。尤其台灣高山蘿蔔水分多，如同水梨一樣甘美多汁，是冬天不宜錯過的養生食材。
+需注意的是，吃中藥可以吃白蘿蔔，但服用補氣的人參和高麗參時，要避開白蘿蔔，以免補氣效果減半。
+此外，因白蘿蔔性偏寒，胃潰瘍、先兆性流產和經期不順的人，勿過量生食白蘿蔔。</value>
+  </data>
+</root>
